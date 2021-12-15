@@ -24,10 +24,10 @@
               <tr>
                 <th scope="col">ID</th>
                 <th scope="col">Imagen</th>
-                <th scope="col">Curso</th>
+                <th scope="col">Nombre del Servicio</th>
                 <th scope="col">Categoria</th>
                 <th scope="col">Precio</th>
-                <th>Subtitulos</th>
+                <th>Descripcion</th>
               </tr>
             </thead>
             <tbody>

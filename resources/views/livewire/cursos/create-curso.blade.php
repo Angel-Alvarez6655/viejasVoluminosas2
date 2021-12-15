@@ -21,7 +21,7 @@
 
             <div class="mx-auto col-6">
                 <div class="form-group">
-                  <label>Curso</label>
+                  <label>Nombre del Servicio</label>
                   <input wire:model="curso.curso" type="text" class="form-control">
                   @error('curso.curso') <span class="text-danger">{{ $message }}</span>@enderror
                 </div>
@@ -39,7 +39,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label>Subtitulos</label>
+                    <label>Descripción</label>
                     <input wire:model="curso.subtitulos" type="text" class="form-control">
                     @error('curso.subtitulos') <span class="text-danger">{{ $message }}</span>@enderror
                   </div>

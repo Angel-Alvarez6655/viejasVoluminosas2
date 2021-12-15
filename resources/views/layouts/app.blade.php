@@ -13,7 +13,7 @@
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous" defer></script>
 
-    <title>Evaluación: 2do Parcial📖</title>
+    <title>Evaluación: 3er Parcial📖</title>
     @livewireStyles
 </head>
 <body>
@@ -24,7 +24,7 @@
         <a class="nav-link" href="{{route('usuarios')}}">Usuarios</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{route('cursos')}}">Cursos</a>
+        <a class="nav-link" href="{{route('cursos')}}">Servicios</a>
       </li>
     </ul>
   </nav>
